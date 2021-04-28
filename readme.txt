@@ -1,6 +1,2 @@
-My stupid boss still prefers SVN.
-$ cat readme.txt
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+这个文件只是初次学习git使用，并无任何观看与学习的价值。在这之后，我将会一些程序上传到我的github上来。
+算是对自己的一种学习督促。
